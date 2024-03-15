@@ -55,6 +55,8 @@ suite.add('Hypher', hypherDictionary, {
     setup: hypherSetup
 });
 
+suite.add('Hypher (createTrie)', hypherSetup);
+
 suite.add('Hyphenator', hyphenatorDictionary, {
     setup: hyphenatorSetup
 });
