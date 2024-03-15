@@ -70,13 +70,13 @@ vows.describe('Hypher').addBatch({
                 97: {
                     _points: [0, 1],
                     98: {
-                        _points: [0, 2, 0]
+                        _points: [0, 2]
                     }
                 },
                 98: {
                     _points: [0, 2],
                     99: {
-                        _points: [0, 3, 0]
+                        _points: [0, 3]
                     }
                 },
                 _points: []
